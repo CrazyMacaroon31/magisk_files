@@ -1,13 +1,13 @@
 {
   "app": {
-    "version": "e66b0bf3",
-    "versionCode": "298",
+    "version": "fbaf2bde",
+    "versionCode": "297",
     "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magisk_files/canary/app-debug.apk",
     "note": "https://raw.githubusercontent.com/CrazyMacaroon31/magisk_files/canary/notes.md"
   },
   "magisk": {
-    "version": "e66b0bf3",
-    "versionCode": "20425",
+    "version": "61599059",
+    "versionCode": "20422",
     "link": "https://raw.githubusercontent.com/CrazyMacaroon31/magisk_files/canary/magisk-debug.zip",
     "note": "https://raw.githubusercontent.com/CrazyMacaroon31/magisk_files/canary/notes.md",
     "md5": "94f7a9c822c237316eec4e259c28dad2"
